@@ -1,0 +1,7 @@
+UserImages/*
+!UserImages/.gitkeep
+UserFiles/*
+!UserFiles/.gitkeep
+*/__pycache__
+__pycache__
+.vscode
